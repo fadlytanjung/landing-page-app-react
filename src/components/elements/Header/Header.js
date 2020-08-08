@@ -119,7 +119,7 @@ export default function Header() {
             <a className="text-uppercase header-btn" href="#" ><span>Load More Item</span></a>
           </div>
           <div className="col-lg-6 col-md-12 no-padding banner-right">
-            <img alt="" className="img-fluid" src="/assets/img/header-img.png" />
+            <img alt="" className="img-fluid" src="/assets/img/header-img.webp" />
           </div>
         </div>
       </div>

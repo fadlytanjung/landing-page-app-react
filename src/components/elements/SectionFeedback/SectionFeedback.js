@@ -22,9 +22,9 @@ export default function SectionFeedback(props) {
         </div>
         <div className="row">
           <Carousel items={[
-            { image: 's1.jpg' },
-            { image: 's2.jpg' },
-            { image: 's3.jpg' },
+            { image: 's1.webp' },
+            { image: 's2.webp' },
+            { image: 's3.webp' },
           ]} />
         </div>
       </div>

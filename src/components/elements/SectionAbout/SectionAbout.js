@@ -17,7 +17,7 @@ export default function SectionAbout() {
             <a className="btn primary-btn text-uppercase mt-20" href="#" >see details</a>
           </div>
           <div className="col-lg-6 about-right">
-            <img alt="" className="img-fluid" src="assets/img/about-img.png" />
+            <img alt="" className="img-fluid" src="assets/img/about-img.webp" />
           </div>
         </div>
       </div>

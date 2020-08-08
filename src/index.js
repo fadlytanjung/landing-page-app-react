@@ -14,7 +14,7 @@ import './assets/css/font-awesome.min.css?raw';
 import './App.css';
 import './bootstrap.css?raw';
 import './Main.css?raw';
-import 'typeface-poppins';
+// import 'typeface-poppins';
 
 const store = configureStore();
 
